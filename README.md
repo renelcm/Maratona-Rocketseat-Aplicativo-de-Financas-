@@ -2,7 +2,10 @@
 
 Projeto para um aplicativo de Finanças.
 
-Dev.finances
+##Dev.finances
+
+Clicando em "Nova Transação" você irá inserir valores e dataa em sua calculadora financeira.
+Ele irá calcular automaticamente os valores inseridos!
 
 https://renelcm.github.io/Maratona-Rocketseat-Aplicativo-de-Financas-/
 
